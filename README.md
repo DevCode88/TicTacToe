@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe Fun Game in C++
+TicTacToe Is Simple Fun Game In Build Using C++ Programing Language. 
 
 ## Applicatin Screenshot
 
